@@ -6,7 +6,7 @@
 
 Software Engineer
 
-[https://jini.vercel.app/resume](https://jin-log.vercel.app/resume)
+[resume](https://jin-log.vercel.app/resume)
 
 
 <br/><br/>
