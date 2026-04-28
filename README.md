@@ -15,13 +15,11 @@ Software Engineer
 
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-8BC34A?logo=springboot&logoColor=white&style=flat-square&logoHeight=50)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square&logoHeight=50)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square&logoHeight=50) <br/>
 ![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=white&style=flat-square&logoHeight=50) <br/>
 ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white&style=flat-square&logoHeight=50)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat-square&logoHeight=50)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat-square&logoHeight=50)
-![SASS](https://img.shields.io/badge/-SASS-CD6799?logo=SASS&logoColor=white&style=flat-square&logoHeight=50) <br/>
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square&logoHeight=50)
+![Vue](https://img.shields.io/badge/-Vue-41B883?logo=vuedotjs&logoColor=white&style=flat-square&logoHeight=50)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square&logoHeight=50)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square&logoHeight=50) <br/>
 
 <br/><br/>
 
