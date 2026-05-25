@@ -31,12 +31,6 @@ Software Engineer
 
 ### 💻 Github Stats
 
-[![Jini's github stats](https://github-readme-stats.vercel.app/api?username=JiniEun&show_icons=true&theme=dracula)](https://github.com/JiniEun/)
-
-<br/>
-
-![Jini's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JiniEun&show_icons=true&theme=dracula&layout=compact)
-</div>
 <!--
 **Jini-Eun/Jini-Eun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
