@@ -29,8 +29,6 @@ Software Engineer
 
 <br/><br/>
 
-### 💻 Github Stats
-
 <!--
 **Jini-Eun/Jini-Eun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
