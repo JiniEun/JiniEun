@@ -2,46 +2,37 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/JiniEun?style=social)
 
-### 👋 Hello! I'm Jini :relaxed: :smiling_face_with_three_hearts:
+### 👋 Hi, I'm Jini — Backend Engineer
 
-Software Engineer
+대규모 트래픽 다루는 걸 좋아하는 백엔드 엔지니어 :)
 
-[resume](https://jin-log.vercel.app/resume)
-
-
-<br/><br/>
-
-### 🌱 Tech Stack
-
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-8BC34A?logo=springboot&logoColor=white&style=flat-square&logoHeight=50)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square&logoHeight=50)
-![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=white&style=flat-square&logoHeight=50) <br/>
-![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white&style=flat-square&logoHeight=50)
-![Vue](https://img.shields.io/badge/-Vue-41B883?logo=vuedotjs&logoColor=white&style=flat-square&logoHeight=50)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square&logoHeight=50)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square&logoHeight=50) <br/>
+[Resume](https://jin-log.vercel.app/resume) · [Portfolio](https://jin-log.vercel.app/portfolio)
 
 <br/><br/>
 
-### 📬 Contacts
+### 🛠 Tech Stack
+
+**Backend**
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+![SpringBatch](https://img.shields.io/badge/-SpringBatch-6DB33F?logo=spring&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+
+**Cloud & Data**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+
+**Frontend**
+![Vue](https://img.shields.io/badge/-Vue-41B883?logo=vuedotjs&logoColor=white&style=flat-square)
+
+<br/><br/>
+
+### 📬 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julietjin94@gmail.com)](mailto:julietjin94@gmail.com)
 
-<br/><br/>
-
-<!--
-**Jini-Eun/Jini-Eun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![JavaScript](https://img.shields.io/badge/-JavaScript-orange?logo=javascript&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?logo=javascript)
--->
+</div>
